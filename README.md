@@ -25,5 +25,7 @@
   **pip install pypiwin32**
 
   **2.speech_Recognition-pip install speechRecognition**
+  
   **3.wikipedia-pip install wikipedia**
+  
   **4.Pyaudio - pip install PyAudio**
